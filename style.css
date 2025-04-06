@@ -1,0 +1,25 @@
+body{
+    background-image: url(El-universo-tiene-diez-veces-mas-galaxias-de-las-que-se-pensaba.jpg);
+    background-position:  center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.cont{
+background-color: rgb(84, 55, 153);
+padding: 50px;
+opacity: 0.5;
+height: 800px;
+display: block;
+
+}
+.con2{
+    background-color: rgb(98, 38, 44);
+    opacity: 0.5;
+    padding: 50px;
+    height: 800px;
+    display: block;
+    
+    }
